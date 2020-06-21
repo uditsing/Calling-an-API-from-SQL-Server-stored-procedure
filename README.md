@@ -8,4 +8,4 @@ There are 2 way to call SP.
 
 We first write down SP for calling an API.
 
-</hr>
+<br/>
