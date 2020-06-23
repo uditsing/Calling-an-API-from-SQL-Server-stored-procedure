@@ -46,7 +46,7 @@ BEGIN
 			
 			BEGIN -- Set Header
 				SET @ContentType = 'application/json';
-					SET @Method = 'POST'
+				SET @Method = 'POST'
 			END -- Set Header
 			
 			BEGIN -- Set your desired URL where you want to fire API request
